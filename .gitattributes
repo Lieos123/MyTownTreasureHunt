@@ -4,3 +4,6 @@
 *.dylib filter=lfs diff=lfs merge=lfs -text
 *.dll filter=lfs diff=lfs merge=lfs -text
 *.asset filter=lfs diff=lfs merge=lfs -text
+*.resS filter=lfs diff=lfs merge=lfs -text
+源文件Unity2019以上打开/MyTownTreasureHunt/Assets/微软雅黑[[:space:]]SDF.asset filter=lfs diff=lfs merge=lfs -text
+源文件Unity2019以上打开/MyTownTreasureHunt/Library/PackageCache/com.unity.burst@1.8.4/.Runtime/libburst-llvm-14.dylib filter=lfs diff=lfs merge=lfs -text
